@@ -2,7 +2,7 @@ Package.describe({
   name: 'panter:publish-array',
   summary: 'Publish non-mongo-arrays and collection to a client',
   version: '1.0.0',
-  git: ''
+  git: 'https://github.com/panter/meteor-publish-array'
 });
 
 Package.onUse(function(api) {
